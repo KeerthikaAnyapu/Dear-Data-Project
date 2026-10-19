@@ -8,4 +8,21 @@ void setup()
 void draw()
 {
   
+  // 1. Stem
+  stroke(34, 139, 34); // Green
+  strokeWeight(5);
+  line(200, 200, 200, 350);
+  
+  // 2. Petals
+  noStroke();
+  fill(255, 105, 180); // Pink
+  ellipse(200, 150, 70, 70); // Top
+  ellipse(200, 250, 70, 70); // Bottom
+  ellipse(150, 200, 70, 70); // Left
+  ellipse(250, 200, 70, 70); // Right
+  
+  // 3. Flower Center
+  fill(255, 215, 0); // Yellow
+  ellipse(200, 200, 60, 60);
 }
+  
