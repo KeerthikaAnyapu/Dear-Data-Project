@@ -26,7 +26,7 @@ void draw()
   ellipse(200, 200, 60, 60);
   
   
-  // Cloud Castle Summit
+  // Cloud Castle 
     noStroke();
     fill(255, 255, 255, 190);
     ellipse(400, 120, 320, 90);
