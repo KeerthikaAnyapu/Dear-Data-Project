@@ -24,5 +24,18 @@ void draw()
   // 3. Flower Center
   fill(255, 215, 0); // Yellow
   ellipse(200, 200, 60, 60);
+  
+  
+  // Cloud Castle Summit
+    noStroke();
+    fill(255, 255, 255, 190);
+    ellipse(400, 120, 320, 90);
+    ellipse(850, 90, 380, 110);
+    
+    fill(255, 215, 120, 220);
+    rect(560, 40, 110, 65, 12);
 }
+  
+  
+  
   
