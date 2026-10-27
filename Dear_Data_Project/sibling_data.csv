@@ -1,0 +1,51 @@
+ID,Date,Event Description,Type of Interaction,Who Initiated,Duration (mins),Location ,Time of day,Positivity Scale(1-10),My mood,Her mood
+1,08/10/2026,Fought over food (dinner leftovers), Conflict/food,Sister,10,Kitchen,Night,2,Angry,entertained
+2,09/10/2026,Laughed at childhood video, Fun,Me,15,Text / Online,Evening,10,Happy,happy
+3,09/10/2026,picked from school,Favor / Help,Me,25,outdoors(bustop),Evening,9,calm,happy
+4,10/10/2026,baked brownies,Shared Activity / Food,Both,100,Kitchen,Afternoon,10,excited,excited
+5,10/10/2026,Complained about household chores during dinner,Vent / Gossip/Food(x3),Sister,3,Living Room,Afternoon,1,exhausted,annoyed
+6,11/10/2026,went to swimming,Sport,Both,180,outdoors(swimming pool),Morning,10,energised,excited
+7,11/10/2026,dressed up together,Shared Activity / help,Both,40,Bedroom,Night,9,happy,neutral
+8,12/10/2026,Watched BetaSquad together while eating,Entertainment,Both,30,Dining room,Night,10,Happy,happy
+9,12/10/2026,Did homework together,shared activity/help,Both,120,Bedroom,Evening,7,stressed,tired
+10,13/10/2026,Ate dinner together,food,Both,40,Kitchen,Night,9,energised,enerdised
+11,13/10/2026,Complained about food at dinnertime,gossip/food,Me,15,Kitchen,Night,3,upset,entertained
+12,13/10/2026,Played roblox together,Online/Entertainment,Both,75,Living Room,Night,10,enthusiastic,excited
+13,13/10/2026,Tucked sister into bed and read a book,Bonding/Help,Me,20,Bedroom,Night,10,relaxed,sleepy
+14,14/10/2026,Complained about showering too long,Conflict,Me,7,Hallway,Evening,0,angry,upset
+15,14/10/2026,Cooked dinner together,food,Both,35,Kitchen,Evening,9,happy,happy
+16,14/10/2026,Ate dinner together,food,both,40,Kitchen,Night,9,calm,energised
+17,15/10/2026,Watched a movie together ,Entertainment,Both,130,Outdoors/theatre,Evening,10,bored,entertained
+18,15/10/2026,Played arcade games,Fun,Both,45,Outdoors,Night,10,excited,excited
+19,15/10/2026,Ate dinner together,Food,Both,40,Outdoors,Night ,10,energised,energised
+20,16/10/2026,picked from school,Help,Me,25,outdoors(bustop),Afternoon,9,calm,happy
+21,16/10/2026,went on a walk together,Bonding/sport,Sister,100,outdoors,Evening,10,calm,calm
+22,16/10/2026,Ate dinner together,food,Both,45,Kitchen,night,10,calm,exhausted
+23,17/10/2026,dressed up together,Shared activity/help,Sister,30,Bedroom,Morning,7,happy,calm
+24,17/10/2026,played football ,Sport,Both,120,outdoors(garden),Evening,8,energised,energised
+25,17/10/2026,household chores,shared activity/help,Me,30,house,Evening,6,annoyed,happy
+26,17/10/2026,Ate dinner together,food,Both,40,Kitchen,night,,calm,energised
+27,18/10/2026,went to swimming,Sport,Both,195,outdoors(swimming pool),Morning,10,energised,exhausted
+28,18/10/2026,household chores,Help,Me,40,house,Afternoon,5,annoyed,happy
+29,18/10/2026,Ate dinner together,food(x3),Both,35,Kitchen,night,10,calm,happy
+30,19/10/2026,picked from school,Help,Me,20,outdoors(bustop),Afternoon,9,happy,happy
+31,19/10/2026,made a snack together,Shared activity/food,Both,15,Kitchen,Evening,10,excited,calm
+32,19/10/2026,Watched BetaSquad together while eating,Entertainment/food,Both,45,Kitchen,night,10,satisfied,happy
+33,19/10/2026,household chores,Help,Both,20,Living Room,night,4,tired,tired
+34,19/10/2026,Tucked sister into bed and read a book,Bonding/Help,Me,15,Bedroom,night,10,calm,sleepy
+35,20/10/2026,picked from school,Help,Me,25,outdoors(bustop),Afternoon,8,calm,tired
+36,20/10/2026,Cooked dinner together,shared activity/food,Both,60,Kitchen,evening,10,satisfied,happy
+37,20/10/2026,Did homework together,shared activity/help,Both,60,Living Room,night,8,tired,tired
+38,20/10/2026,played uno together,fun/entertainment,Sister,30,Living Room,night,5,angry,angry
+39,20/10/2026,Ate dinner together,food,Both,45,Kitchen,night,10,calm,satisfied
+40,21/10/2026,picked from school,Help,Me,25,outdoors(bustop),Afternoon,9,energised,tired
+41,21/10/2026,sorted shopping haul,shared activity,both,30,Bedroom,Evening,10,satisfied,happy
+42,21/10/2026,Ate dinner together,food,Both,45,Kitchen,night,9,tired,tired
+43,,,,,,,,,,
+44,,,,,,,,,,
+45,,,,,,,,,,
+46,,,,,,,,,,
+47,,,,,,,,,,
+48,,,,,,,,,,
+49,,,,,,,,,,
+50,,,,,,,,,,
